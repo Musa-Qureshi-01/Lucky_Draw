@@ -30,9 +30,7 @@
 ```bash
 python lucky_draw.py
 💰 Example Gameplay
-vbnet
-Copy
-Edit
+
 What would you like to deposit? $100
 Enter the number of lines to bet on (1-3)? 2
 What would you like to bet on each line? $10
