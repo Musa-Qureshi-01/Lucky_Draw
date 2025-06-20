@@ -42,3 +42,15 @@ D | D | D
 
 You won $20.
 You won on lines: 3
+```
+## 🖥️ GUI Version (Tkinter)
+A GUI version of LuckyDraw is now available!
+
+- 🎨 User-friendly interface built with Tkinter
+- 🔢 Supports 1 to 5 betting lines
+- 🎰 5x3 spinning slot grid with styled layout
+- 💸 Displays winnings and remaining balance
+- 🖱️ Interactive inputs and spin button
+
+### ▶️ To Run the GUI:
+> python lucky_draw_gui.py
