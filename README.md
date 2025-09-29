@@ -10,7 +10,7 @@
 - Symbol-based rewards (A, B, C, D) with custom values
 - Payout based on symbol value and bet amount
 - Simple terminal UI
-
+  
 ## 🧠 Symbol Details
 
 | Symbol | Count | Value |
